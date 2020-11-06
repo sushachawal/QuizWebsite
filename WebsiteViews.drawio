@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T18:46:49.678Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="tGmsAbamW3BvtgDBiIo-" version="13.9.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-06T18:48:31.535Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="6gmx6cnB8c8m4l-8Znif" version="13.9.2" type="github" pages="2">
   <diagram id="eQxaF1Dag95yDBxEAqoC" name="Page-1">
-    <mxGraphModel dx="2902" dy="2190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2316" dy="1879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_tfm7mUWPeJqsvMimvFv-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-500" y="620" width="420" height="280" as="geometry" />
-        </mxCell>
         <mxCell id="_tfm7mUWPeJqsvMimvFv-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-500" y="30" width="420" height="280" as="geometry" />
         </mxCell>
@@ -105,101 +102,6 @@
         </mxCell>
         <mxCell id="_tfm7mUWPeJqsvMimvFv-28" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_tfm7mUWPeJqsvMimvFv-27" vertex="1" connectable="0">
           <mxGeometry x="-0.6926" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oAEYFPkM7GgEicWU4UCr-9" value="&lt;font face=&quot;Times New Roman&quot; size=&quot;1&quot;&gt;&lt;i style=&quot;font-size: 17px&quot;&gt;Hull Gang Christmas Quiz&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="640" width="190" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="oAEYFPkM7GgEicWU4UCr-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="oAEYFPkM7GgEicWU4UCr-10" target="oAEYFPkM7GgEicWU4UCr-51">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oAEYFPkM7GgEicWU4UCr-10" value="Buzzer" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="790" width="90" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="oAEYFPkM7GgEicWU4UCr-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;Team Name&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="660" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="oAEYFPkM7GgEicWU4UCr-12" value="University Challenge" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="-355" y="660" width="110" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="oAEYFPkM7GgEicWU4UCr-14" value="Starter Question" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="-480" y="700" width="185" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="oAEYFPkM7GgEicWU4UCr-16" value="Bonus Question 1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="-480" y="770" width="185" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oAEYFPkM7GgEicWU4UCr-17" value="Bonus Question 2" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="-480" y="810" width="185" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oAEYFPkM7GgEicWU4UCr-18" value="Bonus Question 2" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="-480" y="850" width="185" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oAEYFPkM7GgEicWU4UCr-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="oAEYFPkM7GgEicWU4UCr-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-5" y="1050" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oAEYFPkM7GgEicWU4UCr-21" value="Send a signal to master view" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-211.25" y="1010" width="132.5" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="oAEYFPkM7GgEicWU4UCr-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="90" y="620" width="420" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="oAEYFPkM7GgEicWU4UCr-25" value="&lt;font face=&quot;Times New Roman&quot; size=&quot;1&quot;&gt;&lt;i style=&quot;font-size: 17px&quot;&gt;Hull Gang Christmas Quiz&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="130" y="640" width="190" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="oAEYFPkM7GgEicWU4UCr-26" value="University Challenge" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="130" y="660" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="oAEYFPkM7GgEicWU4UCr-32" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="115" y="690" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oAEYFPkM7GgEicWU4UCr-33" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="115" y="730" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oAEYFPkM7GgEicWU4UCr-34" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="115" y="770" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oAEYFPkM7GgEicWU4UCr-35" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="115" y="810" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oAEYFPkM7GgEicWU4UCr-36" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="115" y="850" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oAEYFPkM7GgEicWU4UCr-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oAEYFPkM7GgEicWU4UCr-51" target="oAEYFPkM7GgEicWU4UCr-61">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-145" y="990" />
-              <mxPoint x="-268" y="990" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oAEYFPkM7GgEicWU4UCr-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="oAEYFPkM7GgEicWU4UCr-51" target="oAEYFPkM7GgEicWU4UCr-56">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oAEYFPkM7GgEicWU4UCr-58" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;" vertex="1" connectable="0" parent="oAEYFPkM7GgEicWU4UCr-57">
-          <mxGeometry x="-0.3078" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oAEYFPkM7GgEicWU4UCr-51" value="Has buzzer been pressed before" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="-205" y="930" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oAEYFPkM7GgEicWU4UCr-56" value="Do nothing" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="922.5" width="75" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="oAEYFPkM7GgEicWU4UCr-61" value="Freeze buzzer" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="-305" y="1030" width="75" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="oAEYFPkM7GgEicWU4UCr-63" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oAEYFPkM7GgEicWU4UCr-51" target="oAEYFPkM7GgEicWU4UCr-21">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-160" y="1070" as="sourcePoint" />
-            <mxPoint x="-110" y="1020" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oAEYFPkM7GgEicWU4UCr-64" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;" vertex="1" connectable="0" parent="oAEYFPkM7GgEicWU4UCr-63">
-          <mxGeometry x="-0.3434" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -410,11 +312,109 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="-50s4a5Kux9wwQX1YQu7" name="Page-2">
-    <mxGraphModel dx="1026" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="-50s4a5Kux9wwQX1YQu7" name="Uni. Challenge Views">
+    <mxGraphModel dx="4247" dy="1817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="vERgBJj2h_cucBto-een-0" />
         <mxCell id="vERgBJj2h_cucBto-een-1" parent="vERgBJj2h_cucBto-een-0" />
+        <mxCell id="kkYN2aCDqP9aNP-pzhCv-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vERgBJj2h_cucBto-een-1">
+          <mxGeometry x="-740" y="60" width="420" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="kkYN2aCDqP9aNP-pzhCv-1" value="&lt;font face=&quot;Times New Roman&quot; size=&quot;1&quot;&gt;&lt;i style=&quot;font-size: 17px&quot;&gt;Hull Gang Christmas Quiz&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vERgBJj2h_cucBto-een-1">
+          <mxGeometry x="-700" y="80" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kkYN2aCDqP9aNP-pzhCv-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="vERgBJj2h_cucBto-een-1" source="kkYN2aCDqP9aNP-pzhCv-3" target="kkYN2aCDqP9aNP-pzhCv-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kkYN2aCDqP9aNP-pzhCv-3" value="Buzzer" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="vERgBJj2h_cucBto-een-1">
+          <mxGeometry x="-430" y="230" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kkYN2aCDqP9aNP-pzhCv-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;Team Name&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vERgBJj2h_cucBto-een-1">
+          <mxGeometry x="-700" y="100" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kkYN2aCDqP9aNP-pzhCv-5" value="University Challenge" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="vERgBJj2h_cucBto-een-1">
+          <mxGeometry x="-595" y="100" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kkYN2aCDqP9aNP-pzhCv-6" value="Starter Question" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="vERgBJj2h_cucBto-een-1">
+          <mxGeometry x="-720" y="140" width="185" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kkYN2aCDqP9aNP-pzhCv-7" value="Bonus Question 1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="vERgBJj2h_cucBto-een-1">
+          <mxGeometry x="-720" y="210" width="185" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kkYN2aCDqP9aNP-pzhCv-8" value="Bonus Question 2" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="vERgBJj2h_cucBto-een-1">
+          <mxGeometry x="-720" y="250" width="185" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kkYN2aCDqP9aNP-pzhCv-9" value="Bonus Question 2" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="vERgBJj2h_cucBto-een-1">
+          <mxGeometry x="-720" y="290" width="185" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kkYN2aCDqP9aNP-pzhCv-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="vERgBJj2h_cucBto-een-1" source="kkYN2aCDqP9aNP-pzhCv-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-245" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kkYN2aCDqP9aNP-pzhCv-11" value="Send a signal to master view" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="vERgBJj2h_cucBto-een-1">
+          <mxGeometry x="-451.25" y="450" width="132.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kkYN2aCDqP9aNP-pzhCv-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="vERgBJj2h_cucBto-een-1">
+          <mxGeometry x="-150" y="60" width="420" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="kkYN2aCDqP9aNP-pzhCv-13" value="&lt;font face=&quot;Times New Roman&quot; size=&quot;1&quot;&gt;&lt;i style=&quot;font-size: 17px&quot;&gt;Hull Gang Christmas Quiz&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="vERgBJj2h_cucBto-een-1">
+          <mxGeometry x="-110" y="80" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kkYN2aCDqP9aNP-pzhCv-14" value="University Challenge" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="vERgBJj2h_cucBto-een-1">
+          <mxGeometry x="-110" y="100" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kkYN2aCDqP9aNP-pzhCv-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="vERgBJj2h_cucBto-een-1">
+          <mxGeometry x="-125" y="130" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kkYN2aCDqP9aNP-pzhCv-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="vERgBJj2h_cucBto-een-1">
+          <mxGeometry x="-125" y="170" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kkYN2aCDqP9aNP-pzhCv-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="vERgBJj2h_cucBto-een-1">
+          <mxGeometry x="-125" y="210" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kkYN2aCDqP9aNP-pzhCv-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="vERgBJj2h_cucBto-een-1">
+          <mxGeometry x="-125" y="250" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kkYN2aCDqP9aNP-pzhCv-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="vERgBJj2h_cucBto-een-1">
+          <mxGeometry x="-125" y="290" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kkYN2aCDqP9aNP-pzhCv-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="vERgBJj2h_cucBto-een-1" source="kkYN2aCDqP9aNP-pzhCv-23" target="kkYN2aCDqP9aNP-pzhCv-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-385" y="430" />
+              <mxPoint x="-508" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kkYN2aCDqP9aNP-pzhCv-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="vERgBJj2h_cucBto-een-1" source="kkYN2aCDqP9aNP-pzhCv-23" target="kkYN2aCDqP9aNP-pzhCv-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kkYN2aCDqP9aNP-pzhCv-22" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;" vertex="1" connectable="0" parent="kkYN2aCDqP9aNP-pzhCv-21">
+          <mxGeometry x="-0.3078" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kkYN2aCDqP9aNP-pzhCv-23" value="Has buzzer been pressed before" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="vERgBJj2h_cucBto-een-1">
+          <mxGeometry x="-445" y="370" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kkYN2aCDqP9aNP-pzhCv-24" value="Do nothing" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="vERgBJj2h_cucBto-een-1">
+          <mxGeometry x="-600" y="362.5" width="75" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="kkYN2aCDqP9aNP-pzhCv-25" value="Freeze buzzer" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="vERgBJj2h_cucBto-een-1">
+          <mxGeometry x="-545" y="470" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kkYN2aCDqP9aNP-pzhCv-26" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="vERgBJj2h_cucBto-een-1" source="kkYN2aCDqP9aNP-pzhCv-23" target="kkYN2aCDqP9aNP-pzhCv-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-400" y="510" as="sourcePoint" />
+            <mxPoint x="-350" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kkYN2aCDqP9aNP-pzhCv-27" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;" vertex="1" connectable="0" parent="kkYN2aCDqP9aNP-pzhCv-26">
+          <mxGeometry x="-0.3434" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
